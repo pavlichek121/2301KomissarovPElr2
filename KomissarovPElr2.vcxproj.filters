@@ -18,9 +18,15 @@
     <ClCompile Include="KomissarovPElr2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sorting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="array.h">
+    <ClInclude Include="sort.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
